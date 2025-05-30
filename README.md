@@ -13,6 +13,10 @@ I'm Sagar, a Software Engineer with 3+ years of experience in building robust Ja
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nathsagar24&style=for-the-badge" alt="Profile views"/>
+</p>
+
 <!--
 **nathsagar24/nathsagar24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
