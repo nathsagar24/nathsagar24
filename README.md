@@ -43,3 +43,9 @@ I'm Sagar, a Software Engineer with 3+ years of experience in building robust Ja
 <!-- Top Languages Card -->
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathsagar24&layout=compact&theme=react" alt="Top Languages"/>
 </p>
+
+## 📚 Latest Projects & Repos
+- [**Netflix GPT**](https://github.com/nathsagar24/netflix-gpt)
+- [**Gosyippe**](https://github.com/nathsagar24/gosyippe) 
+- [**BlackBoard**](https://github.com/nathsagar24/BlackBoard)
+- [**Covid Detection**](https://github.com/nathsagar24/Covid-Detection)
