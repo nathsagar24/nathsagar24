@@ -13,17 +13,16 @@ I'm Sagar, a Software Engineer with 3+ years of experience in building robust Ja
   </a>
 </p>
 
-<!--
-**nathsagar24/nathsagar24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+- 🔭 **Current Role:** Member Of Technical Staff at Oracle
+- 🌱 **Primary Stack:** Java 21, Spring Boot, Microservices, Kafka, Docker, AWS  
+- ⚡ **Highlights:**
+  - Developed a real-time Spring Boot config editor with thread-safe design, enabling **20+** concurrent edits/sec without conflicts in staging and production. 
+  - Designed and implemented a distributed config management platform integrating GitLab, AWS S3, and Kubernetes; ensured atomic consistency, reducing weekly deployment mismatch tickets by **100%**.  
+  - Architected and deployed Kafka-based async pipelines to decouple services, boosting config throughput from **150** to **250+**/min at peak with zero downtime.   
+- 👯 **Looking to collaborate on:** Java/Spring Boot open-source projects, Microservices, and System Design discussions  
+- 💬 **Ask me about:** Java, Microservices, System Design, TDD, and CI/CD pipelines  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
