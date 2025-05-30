@@ -38,14 +38,31 @@ I'm Sagar, a Software Engineer with 3+ years of experience in building robust Ja
 | **Messaging**          | ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) |
 | **Testing**            | ![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=JUnit5&logoColor=white) ![Mockito](https://img.shields.io/badge/Mockito-25A162?style=flat-square&logo=Java&logoColor=white) |
 
+---
+
 ## 📈 Top Languages
 
 <!-- Top Languages Card -->
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathsagar24&layout=compact&theme=react" alt="Top Languages"/>
 </p>
 
+---
+
 ## 📚 Latest Projects & Repos
 - [**Netflix GPT**](https://github.com/nathsagar24/netflix-gpt)
 - [**Gosyippe**](https://github.com/nathsagar24/gosyippe) 
 - [**BlackBoard**](https://github.com/nathsagar24/BlackBoard)
 - [**Covid Detection**](https://github.com/nathsagar24/Covid-Detection)
+
+> **Explore more:** [My Repositories](https://github.com/nathsagar24?tab=repositories)
+
+---
+
+## 🤝 Connect with Me
+- **LinkedIn:** [linkedin.com/in/sagar-nath](https://www.linkedin.com/in/sagar-nath)  
+- **GitHub:** [github.com/nathsagar24](https://github.com/nathsagar24)  
+- **Email:** [nathsagar24@gmail.com](mailto:nathsagar24@gmail.com)
+
+<p align="center">
+  <i>Thanks for visiting my GitHub! Feel free to star/fork the repos if you find them helpful.</i>
+</p>
